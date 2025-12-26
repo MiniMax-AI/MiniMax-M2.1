@@ -88,7 +88,7 @@ Furthermore, across specific benchmarks—including test case generation, code p
 | SWE-Review | 8.9 | 3.4 | 10.5 | 16.2 | x | x | 6.4 |
 | OctoCodingbench | 26.1 | 13.3 | 22.8 | 36.2 | 22.9 | x | 26.0 |
 
-To evaluate the model's full-stack capability to architect complete, functional applications "from zero to one," we established a novel benchmark: [VIBE (Visual & Interactive Benchmark for Execution)](https://huggingface.co/datasets/MiniMaxAI/VIBE). This suite encompasses five core subsets: Web, Simulation, Android, iOS, and Backend. Distinguishing itself from traditional benchmarks, VIBE leverages an innovative Agent-as-a-Verifier (AaaV) paradigm to automatically assess the interactive logic and visual aesthetics of generated applications within a real runtime environment.
+To evaluate the model's full-stack capability to architect complete, functional applications "from zero to one," we established a novel benchmark: [VIBE (Visual & Interactive Benchmark for Execution in Application Development)](https://huggingface.co/datasets/MiniMaxAI/VIBE). This suite encompasses five core subsets: Web, Simulation, Android, iOS, and Backend. Distinguishing itself from traditional benchmarks, VIBE leverages an innovative Agent-as-a-Verifier (AaaV) paradigm to automatically assess the interactive logic and visual aesthetics of generated applications within a real runtime environment.
 
 MiniMax-M2.1 delivers outstanding performance on the VIBE aggregate benchmark, achieving an average score of 88.6—demonstrating robust full-stack development capabilities. It excels particularly in the VIBE-Web (91.5) and VIBE-Android (89.7) subsets.
 
@@ -150,7 +150,7 @@ We recommend using [Transformers](https://github.com/huggingface/transformers) t
 
 ### Other Inference Engines
 
-- [KTransformers](https://github.com/kvcache-ai/ktransformers)
+- [KTransformers](https://github.com/kvcache-ai/ktransformers/blob/main/doc/en/kt-kernel/MiniMax-M2.1-Tutorial.md)
 
 ### Inference Parameters
 
