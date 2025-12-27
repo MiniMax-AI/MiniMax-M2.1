@@ -55,7 +55,7 @@ M2.1 was built to shatter the stereotype that high-performance agents must remai
 We believe true intelligence should be within reach. M2.1 is our commitment to the future, and a powerful new tool in your hands.
 
 <p align="center">
-  <img width="100%" src="figures/bench.png">
+  <img width="100%" src="figures/bench.jpg">
 </p>
 
 ## How to Use
