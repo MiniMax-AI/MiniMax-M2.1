@@ -150,6 +150,7 @@ We recommend using [Transformers](https://github.com/huggingface/transformers) t
 
 ### Other Inference Engines
 
+- [MLX-LM](./docs/mlx_deploy_guide.md)
 - [KTransformers](https://github.com/kvcache-ai/ktransformers/blob/main/doc/en/kt-kernel/MiniMax-M2.1-Tutorial.md)
 
 ### Inference Parameters
